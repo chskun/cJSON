@@ -1,0 +1,3 @@
+---- cJSON_PrintBuffered Matches (2 in 2 files) ----
+cJSON.c line 899 : char *cJSON_PrintBuffered(const cJSON *item, int prebuffer, cjbool fmt)
+cJSON.h line 129 : extern char *cJSON_PrintBuffered(const cJSON *item, int prebuffer, int fmt);
